@@ -1,5 +1,5 @@
 # Stopwatch
-Link: https://
+Link: https://vaibhavsharma2001.github.io/Stopwatch/
 
 Video link :  
 
@@ -9,8 +9,3 @@ Video link :
 * Button to stop or pause the stopwatch
 * Button to reset the stopwatch
 
-### Screenshots
-##### This is how the webpage will look on larger screens
-![screenshot of the webpage]()
-##### This is how the webpage will look on smaller screens
-![screenshot of the webpage]()
